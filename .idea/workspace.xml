@@ -4,45 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e4019c1-9c7b-4c96-8d31-576e9ed7d616" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup1/BackAround.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup1/Close10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup1/DelDel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup1/Diff21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup1/EndUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup1/EveryNth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup1/Front22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup1/Front3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup1/FrontBack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup1/HasTeen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup1/IcyHot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup1/In1020.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup1/In3050.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup1/IntMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup1/LastDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup1/LoneTeen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup1/Makes10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup1/Max1020.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup1/MissingChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup1/MixStart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup1/MonkeyTrouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup1/NearHundred.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup1/NotString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup1/Or35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup1/ParrotTrouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup1/PosNeg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup1/SleepIn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup1/StartHi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup1/StartOz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup1/StringE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup1/SumDouble.java" afterDir="false" />
+    <list default="true" id="9e4019c1-9c7b-4c96-8d31-576e9ed7d616" name="Changes" comment="warmup1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup2/AltPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup2/Array123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup2/Array667.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup2/ArrayCount9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup2/ArrayFront9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup2/CountXX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup2/DoubleX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup2/FrontTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup2/Has271.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup2/Last2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup2/NoTriples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup2/StringBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup2/StringMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup2/StringSplosion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup2/StringTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup2/StringX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/warmup2/StringYak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +71,14 @@
       <option name="presentableId" value="Default" />
       <updated>1683563564806</updated>
     </task>
+    <task id="LOCAL-00001" summary="warmup1">
+      <created>1683568495393</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683568495393</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,5 +91,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="warmup1" />
+    <option name="LAST_COMMIT_MESSAGE" value="warmup1" />
   </component>
 </project>
