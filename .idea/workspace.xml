@@ -4,37 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e4019c1-9c7b-4c96-8d31-576e9ed7d616" name="Changes" comment="warmup2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string1/AtFirst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string1/ComboString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string1/ConCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string1/DeFront.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string1/EndsLy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string1/ExtraEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string1/ExtraFront.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string1/FirstHalf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string1/FirstTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string1/FrontAgain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string1/HasBad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string1/HelloName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string1/LastChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string1/LastTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string1/Left2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string1/MakeAbba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string1/MakeOutWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string1/MakeTags.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string1/MiddleThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string1/MiddleTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string1/MinCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string1/NTwice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string1/NonStart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string1/Right2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string1/SeeColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string1/TheEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string1/TwoChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string1/WithouEnd2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string1/Without2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string1/WithoutEnd.java" afterDir="false" />
+    <list default="true" id="9e4019c1-9c7b-4c96-8d31-576e9ed7d616" name="Changes" comment="string1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/logic2/Blackjack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/logic2/CloseFar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/logic2/EvenlySpaced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/logic2/LoneSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/logic2/LuckySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/logic2/MakeBricks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/logic2/MakeChocolate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/logic2/NoTeenSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/logic2/RoundSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683635994422</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="string1">
+      <created>1683726735578</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683726735578</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,6 +101,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="warmup1" />
     <MESSAGE value="warmup2" />
-    <option name="LAST_COMMIT_MESSAGE" value="warmup2" />
+    <MESSAGE value="string1" />
+    <option name="LAST_COMMIT_MESSAGE" value="string1" />
   </component>
 </project>
